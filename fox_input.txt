@@ -1,0 +1,28 @@
+"<The>"
+	"The" det def sp @det #1->4
+"<quick>"
+	"quick" adj sint @amod #2->4
+"<brown>"
+	"brown" adj @amod #3->4
+"<fox>"
+	"fox" n sg @nsubj #4->5
+"<jumps>"
+	"jump" vblex pres p3 sg @root #5->0
+"<over>"
+	"over" pr @case #6->9
+"<the>"
+	"the" det def sp @det #7->9
+"<lazy>"
+	"lazy" adj sint @amod #8->9
+"<dog>"
+	"dog" n sg @obl #9->5
+"<in>"
+	"in" pr @case #10->13
+"<the>"
+	"the" det def sp @det #11->13
+"<green>"
+	"green" adj sint @amod #12->13
+"<fields>"
+	"field" n pl @obl #13->5
+"<.>"
+	"." sent

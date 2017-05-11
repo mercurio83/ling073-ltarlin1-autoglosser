@@ -1,0 +1,18 @@
+\begin{dependency}
+	\begin{deptext}[column sep=0.2cm]
+		The \& quick \& brown \& fox \& jumps \& over \& the \& lazy \& dog \& in \& the \& green \& fields \& ROOT \\ 
+	\end{deptext}
+	\depedge{4}{1}{det}
+	\depedge{4}{2}{amod}
+	\depedge{4}{3}{amod}
+	\depedge{5}{4}{nsubj}
+	\depedge{14}{5}{root}
+	\depedge{9}{6}{case}
+	\depedge{9}{7}{det}
+	\depedge{9}{8}{amod}
+	\depedge{5}{9}{obl}
+	\depedge{13}{10}{case}
+	\depedge{13}{11}{det}
+	\depedge{13}{12}{amod}
+	\depedge{5}{13}{obl}
+\end{dependency}

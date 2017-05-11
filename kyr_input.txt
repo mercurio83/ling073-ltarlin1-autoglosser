@@ -1,0 +1,30 @@
+"<Бул>"
+	"бул" det dem @det #1->2   !this
+"<тасма>"
+	"тасма" n nom @nsubj #2->13 !film
+"<Кыргызстандын>"
+	"Кыргызстан" np top gen @nmod #3->13 ! Kyrgyzstan's
+"<эң>"
+	"эң" adv @advmod #4->5 ! most
+"<кымбат>"
+	"кымбат" adj @conj #5->11 ! expensive
+"<жана>"
+	"жана" cnjcoo @cc #6->11 ! and
+"<Кыргыз>"
+	"кыргыз" n attr @nmod #7->8 ! Kyrgyz
+"<Республикасынын>"
+	"республика" n px3sp gen @nmod:poss #8->9 ! Republic's
+"<Өкмөтү>"
+	"өкмөт" n px3sp nom @obl #9->11 ! Government
+"<тарабынан>"
+	"тарап" n px3sp abl @case #10->9 ! by
+"<тапшырылган>"
+	"тапшыр" v tv pass gpr_past @acl #11->13 ! submitted
+"<биринчи>"
+	"бир" num ord @nummod #12->13  ! first
+"<тасмасы>"
+	"тасма" n px3sp nom @root #13->0  ! film
+"<_>"
+	"э" cop aor p3 sg @cop #14->13  ! is
+"<.>"
+	"." sent @punct #15->13
